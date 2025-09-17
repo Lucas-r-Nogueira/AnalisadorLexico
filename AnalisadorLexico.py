@@ -1,5 +1,3 @@
-# Lucas Ramalho Nogueira RA: 00119634
-
 # Bibliotecas
 import os.path
 import sys
@@ -77,3 +75,4 @@ for linha in myFile:
 
 myFile.close()
 print(output)
+
